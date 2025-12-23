@@ -17,3 +17,7 @@ Tools Used
 
 This dashboard is published on Tableau Public for portfolio purposes.
 Data is read-only and used for demonstration.
+
+## 🖼 Dashboard Preview
+![Dashboard Preview]<img width="1245" height="661" alt="Ekran görüntüsü 2025-12-23" src="https://github.com/user-attachments/assets/1ce51e53-abaf-44bc-bddd-ee0ed08ba7c3" />
+
